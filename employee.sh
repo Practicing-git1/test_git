@@ -1,2 +1,4 @@
 This is kiran mai
-Practicing git 
+Practicing git
+Adding some informaion
+
